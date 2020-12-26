@@ -1,2 +1,2 @@
-# cosmos3066
-Cosmos 3066, management project.
+# Cosmos 3066
+Management repository.
